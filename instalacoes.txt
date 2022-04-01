@@ -1,0 +1,8 @@
+yarn create vite <nome-do-projeto> --template react-ts  (Criando projeto com typescript)
+
+O Vite não instala dependências automaticamente, apenas instala o package.json tendo que ser instalada manualmente com yarn ou npm.
+A escolha de instação de dependências desse estudo será o yarn rodando o comando "yarn".
+
+Execute o projeto com o comando "yarn dev" e abra no navegador na porta 3000.
+
+Instalar o axios com o comando "yarn add axios".
